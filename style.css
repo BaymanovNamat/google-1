@@ -52,6 +52,8 @@
   font-size: 20px;
 }
 
+/*Nature*/
+
 .align-right {
   float: right;
 }
@@ -59,7 +61,10 @@
   float: left;
 }
 .border {
-  border: 3px;
+  border-width: 2px;
+}
+.solid {
+  border-style: solid;
 }
 .dashed {
   border-style: dashed;
@@ -67,7 +72,7 @@
 .dotted {
   border-style: dotted;
 }
-.color {
+.border-color {
   border-color: blue;
 }
 .margin-left {
@@ -75,4 +80,91 @@
 }
 .margin-right {
   margin-right: 10px;
+}
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+.text-justify {
+  text-align: justify;
+}
+.background-color {
+  background-color: green;
+}
+.width {
+  width: 60%;
+}
+.text-shadow {
+  text-shadow: 5px 5px 8px purple;
+}
+.padding-left {
+  padding-left: 15px;
+}
+.padding-right {
+  padding-right: 15px;
+}
+.padding-top {
+  padding-top: 10px;
+} 
+.padding-bottom {
+  padding-bottom: 10px;
+}
+.border-left-style {
+  border-left-style: solid;
+}
+.border-right-color {
+  border-right-color: rgb(151, 1, 211);
+}
+.border-right-width {
+  border-right-width: 8px;
+}
+.border-top-style {
+  border-top-style: dashed;
+}
+.border-top-width {
+  border-top-width: 10px;
+}
+.border-top-color {
+  border-top-color: hotpink;
+}
+.border-left-width {
+  border-left-width: 10px;
+}
+.background-color2 {
+  background-color: rgba(29, 207, 178, 0.39);
+}
+.color {
+  color: rgb(73, 73, 197);
+}
+.text-overflow {
+  overflow-x: scroll;
+}
+.height {
+  height: 100px;
+}
+.margin-left2 {
+  margin-left: 450px;
+}
+.font-size {
+  font-size: 25px;
+}
+.color2 {
+  color: rgb(55, 0, 255);
+}
+.text-shadow2 {
+  text-shadow: 5px 5px 10px rgb(255, 238, 0);
+}
+.font-style {
+  font-style: italic;
+} 
+.border-radius {
+  border-radius: 50px;
+}
+.padding {
+  padding: 20px;
 }
