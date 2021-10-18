@@ -52,14 +52,27 @@
   font-size: 20px;
 }
 
-.page-1 {
-  border: 3px dashed gray;
-  float: left;
-  margin-right: 5px;
-}
-.page-2 {
-  border: 3px dotted gray;
+.align-right {
   float: right;
-  width: 500px;
-  margin-left: 5px;
+}
+.align-left {
+  float: left;
+}
+.border {
+  border: 3px;
+}
+.dashed {
+  border-style: dashed;
+}
+.dotted {
+  border-style: dotted;
+}
+.color {
+  border-color: blue;
+}
+.margin-left {
+  margin-left: 10px;
+}
+.margin-right {
+  margin-right: 10px;
 }
