@@ -1,0 +1,65 @@
+.btn {
+  text-shadow: 5px 5px 6px rgba(253, 6, 6, 0.801);
+  border-radius: 5px;
+  margin: 5px;
+  border:0px;
+  padding: 12px;
+}
+.btn-primary{
+  background-color: blue;
+  color: aliceblue;
+}
+.btn-secondary{
+  background-color: darkgrey;
+  color: white;
+}
+.btn-success {
+  background-color: green;
+  color: beige;
+}
+.btn-danger {
+  background-color: red;
+  color: white;
+}
+.btn-writing {
+  background-color: yellow;
+  color: rgb(0, 0, 0);
+}
+.btn-info {
+  background-color: cyan;
+  color: rgb(0, 0, 0);
+}
+.btn-light {
+  background-color: white;
+  color: black;
+}
+.btn-dark {
+  background-color: black;
+  color: white;
+}
+.btn-link {
+  background-color: white;
+  color: blue;
+  text-decoration: underline;
+}
+
+.btn-small {
+  padding: 4px 8px;
+  font-size: 10px;
+}
+.btn-big {
+  padding: 18px 9px;
+  font-size: 20px;
+}
+
+.page-1 {
+  border: 3px dashed gray;
+  float: left;
+  margin-right: 5px;
+}
+.page-2 {
+  border: 3px dotted gray;
+  float: right;
+  width: 500px;
+  margin-left: 5px;
+}
