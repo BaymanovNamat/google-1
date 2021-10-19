@@ -168,3 +168,42 @@
 .padding {
   padding: 20px;
 }
+.margin-left3 {
+  margin-left: 280px;
+}
+.padding-left2 {
+  padding-left: 45px;
+}
+.color3 {
+  color: red;
+}
+.background-color3 {
+  background-color: rgb(255, 238, 0);
+}
+.border-radius2 {
+  border-radius: 25px;
+}
+.color4 {
+  color: dodgerblue;
+}
+.border-color2 {
+  border-color: dodgerblue;
+}
+.border3 {
+  border-width: 8px;
+}
+.border-top-color2 {
+  border-top-color: gold;
+}
+.border-bottom-style {
+  border-bottom-style: double;
+}
+.border-bottom-style {
+  border-bottom-color: hotpink;
+}
+.background-color4 {
+  background-color: rgb(128, 228, 166);
+}
+.padding2 {
+  padding: 5px;
+}
